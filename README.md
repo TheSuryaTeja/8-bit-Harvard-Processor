@@ -2,7 +2,7 @@
 Designing a 8-bit processor using Verilog
 
 
-| Opcode  |  Description                       |      usage                         |                operation                        |
+| Opcode  |  Description                       |      Usage                         |                Operation                        |
 |  ----   |    :------------------------:      |      :--------------------------:  |    ---------------------------------------:     |
 | 000000  |  Immediate move                    |  MVI Rdst, Imm value               |  Rdst = Imm value                               |
 | 000001  |  Register move                     |  MOV Rdst, Rsrc                    |  Rdst = Rsrc                                    | 
