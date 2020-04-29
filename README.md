@@ -2,13 +2,14 @@
 Designing a 8-bit processor using Verilog
 
 
-<br> > 32-numbers of 8-bit registers.</br>
-<br> > 8-bit logic and unsigned fixed point arithmetic circuit.</br>
-<br> > Load and Store unit.</br>
-<br> > Data memory with 256 numbers of 8-bit locations.</br>
-<br> > 32-bit Instructions.</br>
-<br> > Instruction memory with 64 numbers of 32-bit locations.</br>
-<br> > 6-bit Program Counter.</br>
+* 32-numbers of 8-bit registers.
+* 8-bit logic and unsigned fixed point arithmetic circuit.
+* Load and Store unit.
+* Data memory with 256 numbers of 8-bit locations.
+* 32-bit Instructions.
+* Instruction memory with 64 numbers of 32-bit locations.
+* 6-bit Program Counter.
+
 
 
 
