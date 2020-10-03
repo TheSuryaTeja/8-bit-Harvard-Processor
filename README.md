@@ -1,5 +1,10 @@
+> This design is behavioral and not for synthesis.
+
+> For synthesizable and more efficient design contact me.
+
 # 8-bit-Harvard-Processor
 Designing a 8-bit processor using Verilog
+
 
 
 * 32-numbers of 8-bit registers.
@@ -32,3 +37,8 @@ Designing a 8-bit processor using Verilog
 | 001110  |  16-bit Logical NOT                |  NOT Rdst1, Rsrc1                  |  Rdst1 =!Rsrc1                                  |
 | 001111  |  16-bit Logical left shift         |  LLSH Rdst1, Rsrc2, Rsrc1          |  Rdst1 = Rsrc2<<Rsrc1                           |
 | 010000  |  16-bit Logical right shift        |  LRSH Rdst1, Rsrc2, Rsrc1          |  Rdst1 = Rsrc2 >> Rsrc1                         |
+
+## Author
+* Surya Teja 
+* Mail - **heysuryateja@gmail.com**
+* Connect on [Linkedin](https://www.linkedin.com/in/suryateja2000/)
