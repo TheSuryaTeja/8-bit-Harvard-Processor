@@ -1,6 +1,6 @@
-> This design is behavioral and not for synthesis.
+> **This design is behavioral and not for synthesis.**
 
-> For synthesizable and more efficient design contact me.
+> **For synthesizable and more efficient design contact me.**
 
 # 8-bit-Harvard-Processor
 Designing a 8-bit processor using Verilog
